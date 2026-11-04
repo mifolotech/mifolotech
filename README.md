@@ -4,7 +4,7 @@
 
 🌱 Currently learning Machine Learning and Deep Learning through GCI World (Matsuo-Iwasawa Lab, University of Tokyo), and building academic and personal AI projects to understand every step in depth, from data to deployment.
 
-🔬 Interests: Computer Vision (Pose Estimation), Edge AI, Machine Learning, Deep Learning, AI Agents.
+🔬 Interests: Computer Vision, Edge AI, Machine Learning, Deep Learning, AI Agents.
 
 🌍 Open to opportunities worldwide across software engineering and emerging technologies, with a particular interest in AI/ML.
 
