@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Mifolo 👋
 
-<!--
-**mifolotech/mifolotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Systems and Software Engineering student at the Jesuit University of Abidjan, Côte d'Ivoire, passionate about AI, particularly Machine Learning and Deep Learning.
 
-Here are some ideas to get you started:
+🌱 Currently learning Machine Learning and Deep Learning through GCI World (Matsuo-Iwasawa Lab, University of Tokyo), and building academic and personal AI projects to understand every step in depth, from data to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Interests: Computer Vision (Pose Estimation), Edge AI, Machine Learning, Deep Learning, AI Agents.
+
+🌍 Open to opportunities worldwide across software engineering and emerging technologies, with a particular interest in AI/ML.
+
+**Links**
+  - Email: [mifolo.tech@gmail.com](mailto:mifolo.tech@gmail.com)
+  - LinkedIn: [in/mifolo-yeo](https://www.linkedin.com/in/mifolo-yeo-87493a399)
